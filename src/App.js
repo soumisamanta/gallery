@@ -1,5 +1,5 @@
-import React from 'react';
-import './App.css';
+import React from "react";
+import "./App.css";
 import Navbar from "./Components/Navbar/Navbar";
 import SearchArea from "./Components/SearchArea/SearchArea";
 import Gallery from "./Components/Gallery/Gallery";
@@ -8,11 +8,11 @@ import Footer from "./Components/Footer/Footer";
 function App() {
   return (
     <div>
-      <Navbar/>
-      <SearchArea/> 
-      <Gallery/>  
-      <GalleryNavigationBtn/>   
-      <Footer/>
+      <Navbar />
+      <SearchArea />
+      <Gallery />
+      <GalleryNavigationBtn />
+      <Footer />
     </div>
   );
 }
