@@ -1,0 +1,10 @@
+.Gallery{
+    margin-top: 30px;
+}
+
+.imageWraper{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 16px 1%;
+    flex-wrap: wrap;
+}

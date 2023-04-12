@@ -1,0 +1,27 @@
+.imageCard {
+  width: 313px;
+  height: 216px;
+  margin: 0px 5px 48px 5px;}
+.imageCard figure {
+  width: 313px;
+  height: 176px;
+  margin-bottom: 16px;
+}
+.imageCard figure img {
+  width: 313px;
+  height: 176px;
+}
+.dateLikeHolder{
+    display: flex;
+    justify-content: space-between;
+
+
+}
+.date{
+    color: #CCC;
+
+}
+.views{
+    color: #999;
+
+}
